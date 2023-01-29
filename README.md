@@ -1,6 +1,12 @@
 # React E Commerce App MCV
 <p align="center">
-    <img src="./src/assets/images/EShop.png">
+    <a target="_blank" href="https://kevintapol.github.io/React-E-Commerce-App/">
+         <img src="./src/assets/images/EShop.png">
+    </a>
+    <br>
+    <a target="_blank" href="https://kevintapol.github.io/React-E-Commerce-App/" >
+        <img height="30" src="https://img.shields.io/static/v1?label=&message=CLICK_HERE_FOR_WEBSITE&color=3388ff&style=plastic&logo=&logo-color=white"/>
+    </a>
 </p>
 ### Model DB is an API, Views handles React .jsx and Controller is handled in App.js 
 
