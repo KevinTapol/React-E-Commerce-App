@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-E-Commerce-App/static/css/main.eecc2196.css",
+    "main.css": "/React-E-Commerce-App/static/css/main.75694be1.css",
     "main.js": "/React-E-Commerce-App/static/js/main.0d5c2c79.js",
     "static/media/postit.png": "/React-E-Commerce-App/static/media/postit.77568692430ad34d5bbc.png",
     "static/media/bandana.png": "/React-E-Commerce-App/static/media/bandana.1c879831c785d6e2e5ac.png",
@@ -11,11 +11,11 @@
     "static/media/mouse.png": "/React-E-Commerce-App/static/media/mouse.fd5305a8655c7dc37178.png",
     "static/media/stapler.png": "/React-E-Commerce-App/static/media/stapler.512c01a7e849b7e09622.png",
     "index.html": "/React-E-Commerce-App/index.html",
-    "main.eecc2196.css.map": "/React-E-Commerce-App/static/css/main.eecc2196.css.map",
+    "main.75694be1.css.map": "/React-E-Commerce-App/static/css/main.75694be1.css.map",
     "main.0d5c2c79.js.map": "/React-E-Commerce-App/static/js/main.0d5c2c79.js.map"
   },
   "entrypoints": [
-    "static/css/main.eecc2196.css",
+    "static/css/main.75694be1.css",
     "static/js/main.0d5c2c79.js"
   ]
 }
