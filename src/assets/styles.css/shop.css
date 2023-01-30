@@ -52,8 +52,30 @@
     cursor: pointer;
   }
 
-  @media (max-width: 516px) {
-      .product{
-        
-      }
+@media (max-width: 1480px) {
+    .products{
+      grid-template-columns: 1fr 1fr;
     }
+    .shopTitle{
+      font-size: 25px;
+    }
+    .product img {
+      max-width: 300px;
+    }
+}
+
+@media (max-width: 925px) {
+  .products{
+    display:flex;
+    flex-direction: column;    
+  }
+  .shopTitle {
+    font-size: 12px;
+  }
+  .product img {
+    max-width: 200px;
+  }
+  .product {
+    margin: 1rem auto;
+  }
+}
